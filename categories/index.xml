@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Home</title>
-    <link>http://www.example.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 May 2021 18:41:40 +0200</lastBuildDate><atom:link href="http://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 May 2021 18:41:40 +0200</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bros</title>
-      <link>http://www.example.com/categories/bros/</link>
+      <link>/categories/bros/</link>
       <pubDate>Thu, 13 May 2021 18:41:40 +0200</pubDate>
       
-      <guid>http://www.example.com/categories/bros/</guid>
+      <guid>/categories/bros/</guid>
       <description></description>
     </item>
     

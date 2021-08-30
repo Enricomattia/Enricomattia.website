@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home</title>
-    <link>http://www.example.com/bio/</link>
+    <link>/bio/</link>
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 May 2021 22:50:16 +0200</lastBuildDate><atom:link href="http://www.example.com/bio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 May 2021 22:50:16 +0200</lastBuildDate><atom:link href="/bio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
