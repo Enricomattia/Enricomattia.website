@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Home</title>
+    <link>http://www.example.com/tags/</link>
+    <description>Recent content in Tags on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 May 2021 18:41:40 +0200</lastBuildDate><atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bro</title>
+      <link>http://www.example.com/tags/bro/</link>
+      <pubDate>Thu, 13 May 2021 18:41:40 +0200</pubDate>
+      
+      <guid>http://www.example.com/tags/bro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hello</title>
+      <link>http://www.example.com/tags/hello/</link>
+      <pubDate>Thu, 13 May 2021 18:41:40 +0200</pubDate>
+      
+      <guid>http://www.example.com/tags/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bau</title>
+      <link>http://www.example.com/tags/bau/</link>
+      <pubDate>Thu, 13 May 2021 18:33:28 +0200</pubDate>
+      
+      <guid>http://www.example.com/tags/bau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>miao</title>
+      <link>http://www.example.com/tags/miao/</link>
+      <pubDate>Thu, 13 May 2021 18:33:28 +0200</pubDate>
+      
+      <guid>http://www.example.com/tags/miao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>incredible</title>
+      <link>http://www.example.com/tags/incredible/</link>
+      <pubDate>Thu, 13 May 2021 18:19:55 +0200</pubDate>
+      
+      <guid>http://www.example.com/tags/incredible/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

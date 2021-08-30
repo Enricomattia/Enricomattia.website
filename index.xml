@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 May 2021 22:50:16 +0200</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ciao</title>
+      <link>http://www.example.com/post/ciao/</link>
+      <pubDate>Thu, 13 May 2021 18:41:40 +0200</pubDate>
+      
+      <guid>http://www.example.com/post/ciao/</guid>
+      <description>Ciao come va $\int_{a \in A} f(x) dx$ ??
+$$\int_{a \in A} f(x) dx$$
+lecca
+I am the king of Penguins, see an example here.
+ </description>
+    </item>
+    
+    <item>
+      <title>Harsanyi = King</title>
+      <link>http://www.example.com/post/harsanyi/</link>
+      <pubDate>Thu, 13 May 2021 18:33:28 +0200</pubDate>
+      
+      <guid>http://www.example.com/post/harsanyi/</guid>
+      <description>Ultimamente mi sto spizzando come un drogato scritti vecchi di John Harsanyi, che probabilmente ho già citato in passati numeri della news. Per chi non ha lo sbatti di aprire il link, John è tendenzialmente sconosciuto al pubblico, ma se è conosciuto è perché ha vinto il nobel per l’economia. Molto più importante di questo, però, ciò che caratterizzava John è il fatto che fosse un genio assoluto (lo dico con tutto il mio cuore).</description>
+    </item>
+    
+    <item>
+      <title>Lose yourself to Taxes</title>
+      <link>http://www.example.com/post/taxes/</link>
+      <pubDate>Thu, 13 May 2021 18:19:55 +0200</pubDate>
+      
+      <guid>http://www.example.com/post/taxes/</guid>
+      <description>Oggi una rubrica sola (data anche la lunghezza dell’intervento dell’ospite). Voliamo subito alla meat. L’obiettivo di questo numero è stendere il principale framework mentale che useremo nel corso di tutta la news.
+Immaginiamo di avere a che fare con una popolazione di tizi qualsiasi (ad esempio i cittadini di uno stato). Questi tizi sono tutti uguali identici eccetto che per la lunghezza del loro cazzo (si, sono tutti uomini). Per semplicità e consistenza con la realtà immaginiamo che le lunghezze dei cazzi varino tra 1 e 2 due metri.</description>
+    </item>
+    
+  </channel>
+</rss>

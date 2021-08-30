@@ -1,0 +1,138 @@
+:is(h1, h2, h3, h4, h5, h6, p, body, pre) {
+  font-family: "Lucida Bright", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif, Helvetica Neue,
+    Helvetica, Arial, sans-serif;
+}
+
+body {
+  background-color: white;
+}
+
+.logo {
+ color: black;
+}
+
+.taglist{
+  color: black;
+}
+
+   .navigation-item {
+    font-family: "Lucida Bright", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif, Helvetica Neue,
+    Helvetica, Arial, sans-serif;
+   }
+
+
+h5 {
+  font-size: 20px;
+}
+
+.posts {
+  text-align: left;
+  width: 300px;
+  color: #1567C0;
+}
+
+
+.dates {
+  text-align: left;
+  width: 300px;
+  color: black;
+}
+
+
+.blogpost {
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: -50px;
+  margin-left: -50px;
+}
+
+
+.standardpage {
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: -100px;
+  margin-left: -100px;
+}
+
+.filter {
+  text-align: left;
+  width: 300px;
+  color: gray;
+}
+
+/* This is a single-line comment 
+a {
+  position: relative;
+  transition: 0.5s;
+}
+a:before,
+a:after {
+  position: absolute;
+  bottom: -2px;
+  content: "";
+  display: inline-block;
+  width: 0;
+  height: 2px;
+  background: #1d1c1c5e;
+  transition: 0.5s;
+}
+a:before {
+  left: 50%;
+}
+a:after {
+  right: 50%;
+}
+a:hover {
+  text-decoration: none;
+}
+a:hover:before,
+a:hover:after {
+  width: 50%;
+}
+*/
+
+a:link {
+  text-decoration: none;
+}
+
+p {
+  font-size: 14px;
+}
+
+li {
+  font-size: 14px;
+}
+
+ul {
+  font-size: 14px;
+}
+
+/* Color of menus buttons */
+
+p a {
+  color: #1567C0;
+}
+
+span a {
+  color: gray;
+}
+
+/* Split the screen in half */
+
+.centeredbrodx {
+  position: absolute;
+  top: 50%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.centeredbrosx {
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>miao on Home</title>
+    <link>http://www.example.com/tags/miao/</link>
+    <description>Recent content in miao on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 May 2021 18:33:28 +0200</lastBuildDate><atom:link href="http://www.example.com/tags/miao/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harsanyi = King</title>
+      <link>http://www.example.com/post/harsanyi/</link>
+      <pubDate>Thu, 13 May 2021 18:33:28 +0200</pubDate>
+      
+      <guid>http://www.example.com/post/harsanyi/</guid>
+      <description>Ultimamente mi sto spizzando come un drogato scritti vecchi di John Harsanyi, che probabilmente ho già citato in passati numeri della news. Per chi non ha lo sbatti di aprire il link, John è tendenzialmente sconosciuto al pubblico, ma se è conosciuto è perché ha vinto il nobel per l’economia. Molto più importante di questo, però, ciò che caratterizzava John è il fatto che fosse un genio assoluto (lo dico con tutto il mio cuore).</description>
+    </item>
+    
+  </channel>
+</rss>

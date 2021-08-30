@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bros on Home</title>
+    <link>http://www.example.com/categories/bros/</link>
+    <description>Recent content in bros on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 May 2021 18:41:40 +0200</lastBuildDate><atom:link href="http://www.example.com/categories/bros/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ciao</title>
+      <link>http://www.example.com/post/ciao/</link>
+      <pubDate>Thu, 13 May 2021 18:41:40 +0200</pubDate>
+      
+      <guid>http://www.example.com/post/ciao/</guid>
+      <description>Ciao come va $\int_{a \in A} f(x) dx$ ??
+$$\int_{a \in A} f(x) dx$$
+lecca
+I am the king of Penguins, see an example here.
+ </description>
+    </item>
+    
+  </channel>
+</rss>
