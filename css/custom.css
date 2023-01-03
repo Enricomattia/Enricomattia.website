@@ -1,5 +1,5 @@
 :is(h1, h2, h3, h4, h5, h6, p, body, pre) {
-  font-family: "Lucida Bright", "Lucida Sans Regular", "Lucida Grande",
+  font-family: Palatino, "Palatino Linotype", serif, "Lucida Bright", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif, Helvetica Neue,
     Helvetica, Arial, sans-serif;
 }
@@ -17,7 +17,7 @@ body {
 }
 
    .navigation-item {
-    font-family: "Lucida Bright", "Lucida Sans Regular", "Lucida Grande",
+    font-family: Palatino, "Palatino Linotype", "Lucida Bright", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif, Helvetica Neue,
     Helvetica, Arial, sans-serif;
    }
@@ -28,20 +28,21 @@ h5 {
 }
 
 .posts {
-  text-align: left;
+  text-align: justify;
   width: 300px;
   color: #1567C0;
 }
 
 
 .dates {
-  text-align: left;
+  text-align: justify;
   width: 300px;
   color: black;
 }
 
 
 .blogpost {
+  text-align: justify;
   margin-top: 50px;
   margin-bottom: 100px;
   margin-right: -50px;
@@ -50,6 +51,7 @@ h5 {
 
 
 .standardpage {
+  text-align: justify;
   position: relative;
   margin-top: 25px;
   margin-bottom: 10px;
@@ -58,7 +60,7 @@ h5 {
 }
 
 .filter {
-  text-align: left;
+  text-align: justify;
   width: 300px;
   color: gray;
 }
@@ -99,7 +101,7 @@ a:link {
 }
 
 p {
-  font-size: 14px;
+  font-size: 18px;
 }
 
 li {
