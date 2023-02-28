@@ -40,6 +40,13 @@ h5 {
   color: black;
 }
 
+.container {
+  margin: 0 auto;
+  max-width: 120rem;
+  width: 100%;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
 
 .blogpost {
   text-align: justify;
@@ -63,6 +70,23 @@ h5 {
   text-align: justify;
   width: 300px;
   color: gray;
+}
+
+.column {
+  float: left;
+  width: 45%;
+}
+
+.columnrx {
+  float: right;
+  width: 45%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 /* This is a single-line comment 
@@ -138,4 +162,10 @@ span a {
   left: 25%;
   transform: translate(-50%, -50%);
   text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+    width: 100%;
+  }
 }
