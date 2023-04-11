@@ -7,37 +7,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 14 May 2021 10:55:20 +0200</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ciao</title>
-      <link>/post/ciao/</link>
-      <pubDate>Thu, 13 May 2021 18:41:40 +0200</pubDate>
-      
-      <guid>/post/ciao/</guid>
-      <description>Ciao come va $\int_{a \in A} f(x) dx$ ??
-$$\int_{a \in A} f(x) dx$$
-lecca
-I am the king of Penguins, see an example here.
- </description>
-    </item>
-    
-    <item>
-      <title>Harsanyi = King</title>
-      <link>/post/harsanyi/</link>
-      <pubDate>Thu, 13 May 2021 18:33:28 +0200</pubDate>
-      
-      <guid>/post/harsanyi/</guid>
-      <description>Ultimamente mi sto spizzando come un drogato scritti vecchi di John Harsanyi, che probabilmente ho già citato in passati numeri della news. Per chi non ha lo sbatti di aprire il link, John è tendenzialmente sconosciuto al pubblico, ma se è conosciuto è perché ha vinto il nobel per l’economia. Molto più importante di questo, però, ciò che caratterizzava John è il fatto che fosse un genio assoluto (lo dico con tutto il mio cuore).</description>
-    </item>
-    
-    <item>
-      <title>Lose yourself to Taxes</title>
-      <link>/post/taxes/</link>
-      <pubDate>Thu, 13 May 2021 18:19:55 +0200</pubDate>
-      
-      <guid>/post/taxes/</guid>
-      <description>Oggi una rubrica sola (data anche la lunghezza dell’intervento dell’ospite). Voliamo subito alla meat. L’obiettivo di questo numero è stendere il principale framework mentale che useremo nel corso di tutta la news.
-Immaginiamo di avere a che fare con una popolazione di tizi qualsiasi (ad esempio i cittadini di uno stato). Questi tizi sono tutti uguali identici eccetto che per la lunghezza del loro cazzo (si, sono tutti uomini). Per semplicità e consistenza con la realtà immaginiamo che le lunghezze dei cazzi varino tra 1 e 2 due metri.</description>
-    </item>
-    
   </channel>
 </rss>

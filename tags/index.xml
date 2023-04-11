@@ -5,52 +5,6 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 13 May 2021 18:41:40 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>bro</title>
-      <link>/tags/bro/</link>
-      <pubDate>Thu, 13 May 2021 18:41:40 +0200</pubDate>
-      
-      <guid>/tags/bro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hello</title>
-      <link>/tags/hello/</link>
-      <pubDate>Thu, 13 May 2021 18:41:40 +0200</pubDate>
-      
-      <guid>/tags/hello/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bau</title>
-      <link>/tags/bau/</link>
-      <pubDate>Thu, 13 May 2021 18:33:28 +0200</pubDate>
-      
-      <guid>/tags/bau/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>miao</title>
-      <link>/tags/miao/</link>
-      <pubDate>Thu, 13 May 2021 18:33:28 +0200</pubDate>
-      
-      <guid>/tags/miao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>incredible</title>
-      <link>/tags/incredible/</link>
-      <pubDate>Thu, 13 May 2021 18:19:55 +0200</pubDate>
-      
-      <guid>/tags/incredible/</guid>
-      <description></description>
-    </item>
-    
+    <language>en</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
