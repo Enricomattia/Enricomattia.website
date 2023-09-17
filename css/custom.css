@@ -180,7 +180,27 @@ span a {
   text-align: center;
 }
 
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  text-align: center;
+  width: 47%;
+  margin-right: 1%;
+  margin-left: 1%;
+}
+
 @media screen and (max-width: 600px) {
+
+  .row {
+    width: 100%;
+  }
+
+  .column {
+    width: 100%;
+  }
 
   img {
     max-width: 100%;
