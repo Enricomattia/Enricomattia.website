@@ -1,7 +1,6 @@
 :is(h1, h2, h3, h4, h5, h6, p, body, pre) {
-  font-family: Palatino, "Palatino Linotype", serif, "Lucida Bright", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif, Helvetica Neue,
-    Helvetica, Arial, sans-serif;
+  font-family: 'Lora', serif, "Lucida Bright", "Lucida Sans Regular", "Lucida Grande",
+  "Lucida Sans Unicode", Geneva, Verdana, sans-serif, Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
 body {
@@ -17,7 +16,7 @@ body {
 }
 
    .navigation-item {
-    font-family: Palatino, "Palatino Linotype", "Lucida Bright", "Lucida Sans Regular", "Lucida Grande",
+    font-family: 'Montserrat', Palatino, "Palatino Linotype", "Lucida Bright", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif, Helvetica Neue,
     Helvetica, Arial, sans-serif;
    }
@@ -211,4 +210,138 @@ span a {
   .container {
     width: 100%;
   }
+}
+
+/* NAVIGATION */
+
+.navigation {
+  height: 6rem;
+  width: 100%;
+}
+.navigation a,
+.navigation span {
+  display: inline;
+  font-size: 1.7rem;
+  font-family: 'Lora', lucida bright, BlinkMacSystemFont, segoe ui, Roboto, Oxygen-Sans,
+    Ubuntu, Cantarell, helvetica neue, Helvetica, pingfang sc, STXihei, 华文细黑,
+    microsoft yahei, 微软雅黑, SimSun, 宋体, Heiti, 黑体, sans-serif;
+  font-weight: 600;
+  line-height: 6rem;
+  color: #212121;
+}
+.navigation a:hover,
+.navigation a:focus {
+  color: #1567c0;
+}
+.navigation .navigation-title {
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+  font-family: 'Lora', lucida bright, lucida sans regular, lucida grande,
+    lucida sans unicode, Geneva, Verdana, sans-serif, Helvetica Neue, Helvetica,
+    Arial, sans-serif;
+}
+.navigation .navigation-list {
+  float: right;
+  list-style: none;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+@media only screen and (max-width: 768px) {
+  .navigation .navigation-list {
+    position: absolute;
+    top: 6rem;
+    right: 0;
+    z-index: 5;
+    visibility: hidden;
+    opacity: 0;
+    padding: 0;
+    max-height: 0;
+    width: 100%;
+    background-color: #fafafa;
+    border-top: solid 2px #e0e0e0;
+    border-bottom: solid 2px #e0e0e0;
+    transition: opacity 0.25s, max-height 0.15s linear;
+  }
+}
+.navigation .navigation-list .navigation-item {
+  font-family: lucida bright, lucida sans regular, lucida grande,
+    lucida sans unicode, Geneva, Verdana, sans-serif, Helvetica Neue, Helvetica,
+    Arial, sans-serif;
+  float: left;
+  margin: 0;
+  position: relative;
+}
+@media only screen and (max-width: 768px) {
+  .navigation .navigation-list .navigation-item {
+    float: none !important;
+    text-align: center;
+  }
+  .navigation .navigation-list .navigation-item a,
+  .navigation .navigation-list .navigation-item span {
+    line-height: 5rem;
+  }
+}
+.navigation .navigation-list .navigation-item a,
+.navigation .navigation-list .navigation-item span {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+@media only screen and (max-width: 768px) {
+  .navigation .navigation-list .separator {
+    display: none;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .navigation .navigation-list .menu-separator {
+    border-top: 2px solid #212121;
+    margin: 0 8rem;
+  }
+  .navigation .navigation-list .menu-separator span {
+    display: none;
+  }
+}
+.navigation #dark-mode-toggle {
+  margin: 1.7rem 0;
+  font-size: 2.4rem;
+  line-height: inherit;
+  bottom: 2rem;
+  left: 2rem;
+  z-index: 100;
+  position: fixed;
+}
+.navigation #menu-toggle {
+  display: none;
+}
+@media only screen and (max-width: 768px) {
+  .navigation #menu-toggle:checked + label > i {
+    color: #e0e0e0;
+  }
+  .navigation #menu-toggle:checked + label + ul {
+    visibility: visible;
+    opacity: 1;
+    max-height: 100rem;
+  }
+}
+.navigation .menu-button {
+  display: none;
+}
+@media only screen and (max-width: 768px) {
+  .navigation .menu-button {
+    display: block;
+    margin: 1.8rem 0;
+    font-size: 2.4rem;
+    font-weight: 400;
+  }
+}
+.navigation .menu-button i:hover,
+.navigation .menu-button i:focus {
+  color: #000;
+}
+.navigation i {
+  color: #212121;
+  cursor: pointer;
+}
+.navigation i:hover,
+.navigation i:focus {
+  color: #1567c0;
 }
