@@ -6,16 +6,6 @@
     <description>Recent content on Enrico Mattia Salonia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Mar 2024 21:56:08 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Measurement</title>
-      <link>/blog/_measurement/</link>
-      <pubDate>Thu, 07 Mar 2024 21:56:08 +0200</pubDate>
-      
-      <guid>/blog/_measurement/</guid>
-      <description>This post was inspired by reading Krantz, D. H., Luce, R. D., Suppes, P., &amp;amp; Tversky, A. (1971). Foundations of measurement: Addıtive and polynomial. Representations, 1.
-The authors first define a relational structure $ \left( A, \succsim, \circ \right)$ and argue that the point of measurement is to find an homomorphism between it and $\left( \mathbb{R}, \geq, + \right)$. Translated, there must exist a function $m : A \rightarrow \mathbb{R}$ such that for all $x, y \in A$ it holds that $x \succsim y \iff m \left(x \right) \geq m \left( y \right)$, i.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 14 May 2021 15:49:18 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
